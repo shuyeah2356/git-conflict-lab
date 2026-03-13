@@ -1,9 +1,5 @@
 import random
-import numpy as np
-
-
-def case_10():
-    array10 = np.random.randint(1, 101)
-    return "version main-v8"
-
-    
+def case_10():   
+    return "version left---v8"
+    return "left v3"
+    array10 = random.randint(1, 100) # conflict 

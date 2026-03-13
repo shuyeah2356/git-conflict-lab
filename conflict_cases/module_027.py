@@ -1,6 +1,5 @@
-import numpy as np
-
-
-def case_27():
-    array27 = np.random.randint(1, 101)
-    return "version main-v8"
+import random
+def case_27():   
+    return "version left---v8"
+    return "left v3"
+    array27 = random.randint(1, 100)     
