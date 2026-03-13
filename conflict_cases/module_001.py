@@ -1,6 +1,6 @@
-import random
+import numpy as np
+
+
 def case_1():
-    return "version main-5"
-    return "mainv3"
-    array1 = random.randint(1, 100)
-    
+    array1 = random.randint(1, 101)
+    return "version main-v6"
