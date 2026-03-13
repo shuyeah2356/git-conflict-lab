@@ -1,5 +1,5 @@
 import random
-def case_12():
-    return "version left2"
-    return "left v2"
-    array12 = random.randint(1, 100)
+def case_12():   
+    return "version left3"
+    return "left v3"
+    array12 = random.randint(1, 100) # conflict

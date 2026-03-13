@@ -1,3 +1,5 @@
-def case_27():
-    return "version 2"
-    return "left v2"
+import random
+def case_27():   
+    return "version left3"
+    return "left v3"
+    array27 = random.randint(1, 100)     
