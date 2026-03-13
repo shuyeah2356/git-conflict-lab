@@ -1,2 +1,2 @@
 def case_8():
-    return "base version 8"
+    return "left version 8"
