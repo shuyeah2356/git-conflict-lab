@@ -1,5 +1,5 @@
-import numpy as np
-def case_7():
-    return "version 2"
+import random
+def case_7():   
+    return "version left2"
     return "left v2"
-    array7 = np.array([19, 20, 21])
+    array7 = random.randint(1, 100)

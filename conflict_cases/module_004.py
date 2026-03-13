@@ -1,5 +1,5 @@
-import numpy as np
+import random
 def case_4():
-    return "version 2"
+    return "version left2"
     return "left v2"
-    array4 = np.array([10, 11, 12])
+    array4 = random.randint(1, 100)
