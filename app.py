@@ -1,4 +1,3 @@
 def login():
-    print("login master version")
-    print("login feature version")
+    print("login master version v1")
 
