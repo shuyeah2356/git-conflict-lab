@@ -1,5 +1,6 @@
 import random
-def case_10():      
-    return "version left2"
-    return "left v2"
-    array10 = random.randint(1, 100)
+def case_10():
+    return "version 3"
+    return "mainv3"
+    array1 = random.randint(1, 100)
+    
